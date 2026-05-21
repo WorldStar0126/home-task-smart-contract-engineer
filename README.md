@@ -58,7 +58,7 @@ Comprehensive documentation is available in the [docs/](docs/) folder:
 
 ```bash
 git clone <repository-url>
-cd prediction-markets
+cd home-task-smart-contract-engineer
 npm install
 ```
 
